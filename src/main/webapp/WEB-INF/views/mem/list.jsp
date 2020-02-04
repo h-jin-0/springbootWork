@@ -8,7 +8,7 @@
 <title>회원목록 페이지</title>
 </head>
 <body>
-
+<img src="/media/dd.jpg"/>
 	<table border="1">
 		<tr>
 			<th>username</th>
